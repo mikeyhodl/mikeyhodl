@@ -16,7 +16,6 @@ Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer from Kenya.
 - 🌱 I’m currently learning Javascript, CSS,  Python & Jeckyll
 - 👯 I’m looking to collaborate on [GadgetsMag](https://github.com/github.com/gadgetsmag.github.io)
 - 💬 Ask me about anything [here](https://github.com/MikeOwino/MikeOwino/issues)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOwino&layout=compact)](https://github.com/mikeowino/)
 ![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=MikeOwino&count_private=true&show_icons=true&theme=highcontrast)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MikeOwino&repo=MikeOwino.github.io)](https://github.com/mikeowino/MikeOwino.github.io)

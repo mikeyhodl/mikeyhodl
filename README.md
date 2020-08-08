@@ -38,5 +38,4 @@ Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer from Kenya.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOwino&layout=compact)](https://github.com/mikeowino/)
 ![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=MikeOwino&count_private=true&show_icons=true&theme=highcontrast)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MikeOwino&repo=MikeOwino.github.io)](https://github.com/mikeowino/MikeOwino.github.io)
 

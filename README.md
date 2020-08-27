@@ -12,7 +12,7 @@
   <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer from Kenya.
+Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer.
 
 - 🔭 I’m currently working on my project [GadgetsMag](https://github.com/gadgetsmag.github.io)
 - 🌱 I’m currently learning Javascript, CSS,  Python & Jekyll

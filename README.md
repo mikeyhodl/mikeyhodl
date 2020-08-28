@@ -40,6 +40,6 @@ Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer.
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOwino&layout=compact)](https://github.com/mikeowino/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOwino&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)
 ![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=MikeOwino&count_private=true&show_icons=true&theme=highcontrast)
 

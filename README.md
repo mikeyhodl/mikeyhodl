@@ -21,7 +21,6 @@ Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer.
 ### Skills 👨‍💻
 <br>
 <br>
-<br>
 
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />

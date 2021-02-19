@@ -1,8 +1,8 @@
 ### Hi there, I'm Mike 👋
 
-![Tom Wright's github stats](https://github-readme-stats.vercel.app/api?username=mikeowino&count_private=true&show_icons=true&theme=darcula)
+![Mike Owino's github stats](https://github-readme-stats.vercel.app/api?username=githubteacher&count_private=true&show_icons=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeowino&layout=compact&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubteacher&layout=compact&theme=darcula)
 
 ### Skills 👨‍💻
 

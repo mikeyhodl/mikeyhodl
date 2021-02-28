@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeowino&layout=compact&theme=darcula)
 
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeOwino&layout=compact&theme=darcula" alt="awesomely2201" /></p>
+
 ### Skills 👨‍💻
 
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)

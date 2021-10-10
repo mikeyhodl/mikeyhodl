@@ -10,7 +10,7 @@
 
 ## .
 
-## Total Visitor
+## Total Visitors
 
 ![VisitorCount](https://profile-counter.glitch.me/MikeOwino/count.svg)
 

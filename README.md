@@ -8,8 +8,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
-
 ## **Support**
 
 <a href="https://blockchair.com/ethereum/address/0x98b2e5c160a775e3d9e3b48626568b017b51f75b"><img align="left" alt="eth wallet" src="https://raw.githubusercontent.com/DGKSK8LIFE/DGKSK8LIFE/main/icons/ethereum.svg" width="40px"></a>

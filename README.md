@@ -19,7 +19,7 @@
 <a href="https://blockchair.com/bitcoin/address/bc1qqpuvsezs6ydquq93khyt5lk7l5g60csj5mwg72"><img align="left" alt="btc wallet" src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/avalanche-avax-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/uniswap-uni-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/hex-hex-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/pancakeswap-cake-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.svg" width="40px" ></a>
 <a href="https://blockchair.com/stellar/account/GDWTIZCPTFVLGCEB3D57WGXTKOM6GSMOMVHXJ6PEZ3XUQOOG2B7MB6BU"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/stellar-xlm-logo.svg" width="40px" ></a>

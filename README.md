@@ -11,7 +11,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 
 

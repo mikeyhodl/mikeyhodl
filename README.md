@@ -2,7 +2,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Kotlin](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)

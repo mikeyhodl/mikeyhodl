@@ -20,7 +20,7 @@
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/hex-hex-logo.svg" width="46px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/pancakeswap-cake-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.svg" width="40px" ></a>
-<a href="https://explorer.solana.com/address/4ZWwm6dLfZdZYeaN7qNkhu4RihkHex8w5pQ3x6DkHXry"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="51px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/swipe-sxp-logo.svg" width="40px" ></a>
 <a href="https://cardanoscan.io/address/DdzFFzCqrhtBQmfMDYBRJqNMmUaH27W8fz33ZAkgiWpxH5io6VTK14HbWFmWVobSvyWfhJLaAyGqQhcYjSmZcGcUfVBwmKD6ZuuwRx52"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/cardano-ada-logo.svg" width="43px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/1inch-1inch-logo.svg" width="43px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/decentraland-mana-logo.svg" width="40px" ></a>

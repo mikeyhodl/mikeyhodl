@@ -24,5 +24,5 @@
 <a href="https://cardanoscan.io/address/DdzFFzCqrhtBQmfMDYBRJqNMmUaH27W8fz33ZAkgiWpxH5io6VTK14HbWFmWVobSvyWfhJLaAyGqQhcYjSmZcGcUfVBwmKD6ZuuwRx52"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/cardano-ada-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/1inch-1inch-logo.svg" width="40px" ></a>
 <a href="https://blockchair.com/ripple/account/rJnVrkJBA8pvfvSfFN6hV69YvRgD5Y5udv"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/xrp-xrp-logo.svg" width="40px" ></a>
-<a href="https://blockchair.com/stellar/account/GDWTIZCPTFVLGCEB3D57WGXTKOM6GSMOMVHXJ6PEZ3XUQOOG2B7MB6BU"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/stellar-xlm-logo.svg" width="40px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/crypto-com-coin-cro-logo.svg" width="40px" ></a>
 

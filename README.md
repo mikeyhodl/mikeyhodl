@@ -17,7 +17,7 @@
 <a href="https://dogechain.info/address/D8tXE5wN9ntx6bL6kVMyCA344VodTYbvZm"><img align="left" alt="doge wallet" src="https://cryptologos.cc/logos/dogecoin-doge-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/avalanche-avax-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/hex-hex-logo.svg" width="46px" ></a>
+<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/bakerytoken-bake-logo.svg" width="46px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/pancakeswap-cake-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/swipe-sxp-logo.svg" width="40px" ></a>

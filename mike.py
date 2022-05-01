@@ -1,9 +1,10 @@
 import time
-time = time.time()
 
-ts = time
+localtime = time.asctime( time.localtime(time.time()) )
 
-file = open("mike.txt", 'w')
-file.write("Time of run | ")
-file.write(str(ts))
+execTime = localtime
+
+file = open("readme.txt", 'w')
+file.write("Time of run : ")
+file.write(str(execTime))
 file.close()

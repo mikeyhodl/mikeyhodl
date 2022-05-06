@@ -11,18 +11,18 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 
-<a href="https://blockchair.com/bitcoin/address/bc1qqpuvsezs6ydquq93khyt5lk7l5g60csj5mwg72"><img align="left" alt="btc wallet" src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="40px" ></a>
-<a href="https://blockchair.com/ethereum/address/0x98b2e5c160a775e3d9e3b48626568b017b51f75b"><img align="left" alt="eth wallet" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/72/Ethereum-ETH-icon.png" width="40px"></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/shiba-inu-shib-logo.svg" width="40px" ></a>
-<a href="https://dogechain.info/address/D8tXE5wN9ntx6bL6kVMyCA344VodTYbvZm"><img align="left" alt="doge wallet" src="https://cryptologos.cc/logos/dogecoin-doge-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/avalanche-avax-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/bakerytoken-bake-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/pancakeswap-cake-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/swipe-sxp-logo.svg" width="40px" ></a>
-<a href="https://cardanoscan.io/address/DdzFFzCqrhtBQmfMDYBRJqNMmUaH27W8fz33ZAkgiWpxH5io6VTK14HbWFmWVobSvyWfhJLaAyGqQhcYjSmZcGcUfVBwmKD6ZuuwRx52"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/cardano-ada-logo.svg" width="43px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/1inch-1inch-logo.svg" width="43px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/decentraland-mana-logo.svg" width="40px" ></a>
-<a href="https://etherscan.io/address/0x98b2E5c160A775e3D9E3b48626568B017B51F75B"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/crypto-com-coin-cro-logo.svg" width="35px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651817194/BTC_cvuile.png"><img align="left" alt="btc wallet" src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="eth wallet" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/72/Ethereum-ETH-icon.png" width="40px"></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="shib wallet" src="https://cryptologos.cc/logos/shiba-inu-shib-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651817109/DOGE_xv4qzs.png"><img align="left" alt="doge wallet" src="https://cryptologos.cc/logos/dogecoin-doge-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="bnb wallet" src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="avax wallet" src="https://cryptologos.cc/logos/avalanche-avax-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="bake wallet" src="https://cryptologos.cc/logos/bakerytoken-bake-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="cake wallet" src="https://cryptologos.cc/logos/pancakeswap-cake-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="bat wallet" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="sxp wallet" src="https://cryptologos.cc/logos/swipe-sxp-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651817039/ADA_qa9hul.png"><img align="left" alt="ada wallet" src="https://cryptologos.cc/logos/cardano-ada-logo.svg" width="43px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="1inch wallet" src="https://cryptologos.cc/logos/1inch-1inch-logo.svg" width="43px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="mana wallet" src="https://cryptologos.cc/logos/decentraland-mana-logo.svg" width="40px" ></a>
+<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="cro wallet" src="https://cryptologos.cc/logos/crypto-com-coin-cro-logo.svg" width="35px" ></a>
 

@@ -23,7 +23,7 @@ jobs:
                 git config --local user.email "mike@mikeowino.com"
                 git config --local user.name "mikeyhodl"
                 git add -A
-                git commit -m "update data" -a
+                git commit -m "Update data" -a
         
         - name: push changes
           uses: ad-m/github-push-action@v0.6.0

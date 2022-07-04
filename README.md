@@ -24,5 +24,4 @@
 <a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651817039/ADA_qa9hul.png"><img align="left" alt="ada wallet" src="https://cryptologos.cc/logos/cardano-ada-logo.svg" width="43px" ></a>
 <a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="1inch wallet" src="https://cryptologos.cc/logos/1inch-1inch-logo.svg" width="43px" ></a>
 <a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="mana wallet" src="https://cryptologos.cc/logos/decentraland-mana-logo.svg" width="40px" ></a>
-<a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="cro wallet" src="https://cryptologos.cc/logos/crypto-com-coin-cro-logo.svg" width="35px" ></a>
 

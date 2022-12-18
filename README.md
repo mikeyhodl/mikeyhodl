@@ -1,15 +1,15 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Kotlin](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=ubuntu)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+![Next JS](https://img.shields.io/badge/Nextjs-000?&logo=next.js)
 
 <a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651817194/BTC_cvuile.png"><img align="left" alt="btc wallet" src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="40px" ></a>
 <a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="eth wallet" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/72/Ethereum-ETH-icon.png" width="40px"></a>

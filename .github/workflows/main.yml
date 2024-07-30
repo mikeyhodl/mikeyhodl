@@ -23,7 +23,7 @@ jobs:
                 git config --local user.email "mike@mikeowino.com"
                 git config --local user.name "mikeyhodl"
                 git add -A
-                git commit -m "1.1.1.1" -a
+                git commit -m "update readme.md" -a
         
         - name: push changes
           uses: ad-m/github-push-action@v0.6.0
